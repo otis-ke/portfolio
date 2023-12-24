@@ -25,8 +25,9 @@ const Footer = () => {
            <a href="https://www.linkedin.com/in/vincent-otis-1315b0235" target="_blank" rel="noreferrer"><FaLinkedin /></a>
            <a href="https://twitter.com/otinaughty" target="_blank" rel="noreferrer"><FaSquareXTwitter  /></a>
          
+
         <div className="footer_copyright">
-        <small>&copy; Vincent Otis. All rights reserved.</small>
+        <small>&copy; Vincent Otis 2024. All rights reserved.</small>
       </div>
     </div>
       
