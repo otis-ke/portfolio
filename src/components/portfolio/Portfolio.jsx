@@ -24,11 +24,11 @@ const projects = [
   { id: 6, title: 'Portfolio', image: port, githubLink: 'https://github.com/otis-ke/otiswebsite.github.io', liveDemoLink: 'https://otis-ke.github.io/otiswebsite.github.io/' },
   { id: 7, title: 'tic tac toe', image: tictac, githubLink: 'https://github.com/otis-ke/tictactoe.github.io', liveDemoLink: 'https://otis-ke.github.io/tictactoe.github.io/' },
   { id: 8, title: 'group project', image: grp, githubLink: 'https://github.com/otis-ke/alxportfolioproject.github.io', liveDemoLink: 'https://otis-ke.github.io/alxportfolioproject.github.io/' },
-  { id: 9, title: 'Airbnb clone', image: bnb, githubLink: 'https://github.com/otis-ke/AirBnB_clone_v4', liveDemoLink: '' },
-  { id: 10, title: 'Hospital managment system', image: hospital, githubLink: 'https://github.com/otis-ke/hospital_management-system', liveDemoLink: '' },
-  { id: 11, title: 'inventory Management system', image: inventory, githubLink: 'https://github.com/otis-ke/notisinventory', liveDemoLink: '' },
-  { id: 12, title: 'Pharmarcy management POS-system', image: pharmarcy, githubLink: 'https://github.com/otis-ke/pharmacy', liveDemoLink: '' },
-  { id: 13, title: 'Farm management system', image: farm, githubLink: 'https://github.com/otis-ke/mwea_farm-system-', liveDemoLink: '' },
+  { id: 9, title: 'Airbnb clone', image: bnb, githubLink: 'https://github.com/otis-ke/AirBnB_clone_v4', liveDemoLink: 'https://otis-ke.github.io/404/' },
+  { id: 10, title: 'Hospital managment system', image: hospital, githubLink: 'https://github.com/otis-ke/hospital_management-system', liveDemoLink: 'https://otis-ke.github.io/404/' },
+  { id: 11, title: 'inventory Management system', image: inventory, githubLink: 'https://github.com/otis-ke/notisinventory', liveDemoLink: 'https://otis-ke.github.io/404/' },
+  { id: 12, title: 'Pharmarcy management POS-system', image: pharmarcy, githubLink: 'https://github.com/otis-ke/pharmacy', liveDemoLink: 'https://otis-ke.github.io/404/' },
+  { id: 13, title: 'Farm management system', image: farm, githubLink: 'https://github.com/otis-ke/mwea_farm-system-', liveDemoLink: 'https://otis-ke.github.io/404/' },
   
 ];
 
@@ -36,7 +36,7 @@ const Portfolio = () => {
   return (
     <section id='portfolio'>
       <h5>My Recent Work</h5>
-      <h2>Portfolio</h2>
+      <h2>Projects</h2>
       <div className="container project_container">
         {projects.map((project) => (
           <article key={project.id} className="project_item">
