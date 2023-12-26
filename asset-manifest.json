@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.a76ec1da.css",
-    "main.js": "/portfolio/static/js/main.0b2f109e.js",
+    "main.css": "/portfolio/static/css/main.62f3d797.css",
+    "main.js": "/portfolio/static/js/main.719b51c1.js",
     "static/js/787.38f16daf.chunk.js": "/portfolio/static/js/787.38f16daf.chunk.js",
     "static/media/aboutotis.jpg": "/portfolio/static/media/aboutotis.198984672128a28440af.jpg",
     "static/media/cut.png": "/portfolio/static/media/cut.06d62e37349d50d9d671.png",
@@ -18,12 +18,12 @@
     "static/media/imagesfarm.jpg": "/portfolio/static/media/imagesfarm.9b0aec9fcb19c63c21ec.jpg",
     "static/media/pharmarcy.jpg": "/portfolio/static/media/pharmarcy.b8bce8163bc7483657fe.jpg",
     "index.html": "/portfolio/index.html",
-    "main.a76ec1da.css.map": "/portfolio/static/css/main.a76ec1da.css.map",
-    "main.0b2f109e.js.map": "/portfolio/static/js/main.0b2f109e.js.map",
+    "main.62f3d797.css.map": "/portfolio/static/css/main.62f3d797.css.map",
+    "main.719b51c1.js.map": "/portfolio/static/js/main.719b51c1.js.map",
     "787.38f16daf.chunk.js.map": "/portfolio/static/js/787.38f16daf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a76ec1da.css",
-    "static/js/main.0b2f109e.js"
+    "static/css/main.62f3d797.css",
+    "static/js/main.719b51c1.js"
   ]
 }
