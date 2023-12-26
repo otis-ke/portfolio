@@ -20,17 +20,18 @@ const Footer = () => {
         
         <li><a href='#contact'>Contact</a></li>
       </ul>
-      <div className="footer_socials">
-        <a href="https://github.com/otis-ke" target="_blank" rel="noreferrer"><ImGithub /></a>
+      <div className="permalinks"> 
+      
+      <a href="https://github.com/otis-ke" target="_blank" rel="noreferrer"><ImGithub /></a>
            <a href="https://www.linkedin.com/in/vincent-otis-1315b0235" target="_blank" rel="noreferrer"><FaLinkedin /></a>
            <a href="https://twitter.com/otinaughty" target="_blank" rel="noreferrer"><FaSquareXTwitter  /></a>
          
-
-        <div className="footer_copyright">
+      
+        
+    </div>
+      <div className="footer_copyright">
         <small>&copy; Vincent Otis 2024. All rights reserved.</small>
       </div>
-    </div>
-      
       
       </footer>
      
