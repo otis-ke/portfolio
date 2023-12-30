@@ -18,7 +18,7 @@ const Nav = () => {
       <a href="#expirience" onClick={() => setActiveNav('#expirience')} className={activeNav === '#expirience' ? 'active' : ''}>
         <IoBookOutline />
       </a>
-       <a href="#header" onClick={() => setActiveNav('#header')} className={activeNav === '#header' ? 'active' : ''}>
+        <a href="#header" onClick={() => setActiveNav('#header')} className={activeNav === '#header' ? 'active' : ''}>
         <IoHomeOutline />
       </a>
 

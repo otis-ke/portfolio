@@ -13,22 +13,23 @@ import inventory from '../../assets/inventory.jpg';
 import hospital from '../../assets/hospitaliii.jpg';
 import pharmarcy from '../../assets/pharmarcy.jpg';
 import farm from '../../assets/imagesfarm.jpg';
-
+import crypto from '../../assets/crypto.jpg'
 
 const projects = [
-  { id: 1, title: 'Weather Search', image: weather, githubLink: 'https://github.com/otis-ke/Weathersearch.github.io', liveDemoLink: 'https://otis-ke.github.io/Weathersearch.github.io/' },
-  { id: 2, title: 'Compare location', image: compare, githubLink: 'https://github.com/otis-ke/user_location_compare.github.io', liveDemoLink: ' https://otis-ke.github.io/user_location_compare.github.io/' },
-  { id: 3, title: 'Closet app', image: shop, githubLink: 'https://github.com/otis-ke/veemcloset.github.io', liveDemoLink: 'https://otis-ke.github.io/veemcloset.github.io/' },
-  { id: 4, title: 'Get location', image: location, githubLink: 'https://github.com/otis-ke/location_user.github.io', liveDemoLink: 'https://otis-ke.github.io/location_user.github.io/' },
-  { id: 5, title: 'Calculator', image: calculator, githubLink: 'https://github.com/otis-ke/calculator.github.io', liveDemoLink: ' https://otis-ke.github.io/calculator.github.io/' },
-  { id: 6, title: 'Portfolio', image: port, githubLink: 'https://github.com/otis-ke/otiswebsite.github.io', liveDemoLink: 'https://otis-ke.github.io/otiswebsite.github.io/' },
-  { id: 7, title: 'tic tac toe', image: tictac, githubLink: 'https://github.com/otis-ke/tictactoe.github.io', liveDemoLink: 'https://otis-ke.github.io/tictactoe.github.io/' },
-  { id: 8, title: 'group project', image: grp, githubLink: 'https://github.com/otis-ke/alxportfolioproject.github.io', liveDemoLink: 'https://otis-ke.github.io/alxportfolioproject.github.io/' },
-  { id: 9, title: 'Airbnb clone', image: bnb, githubLink: 'https://github.com/otis-ke/AirBnB_clone_v4', liveDemoLink: 'https://otis-ke.github.io/404/' },
-  { id: 10, title: 'Hospital managment system', image: hospital, githubLink: 'https://github.com/otis-ke/hospital_management-system', liveDemoLink: 'https://otis-ke.github.io/404/' },
-  { id: 11, title: 'inventory Management system', image: inventory, githubLink: 'https://github.com/otis-ke/notisinventory', liveDemoLink: 'https://otis-ke.github.io/404/' },
-  { id: 12, title: 'Pharmarcy management POS-system', image: pharmarcy, githubLink: 'https://github.com/otis-ke/pharmacy', liveDemoLink: 'https://otis-ke.github.io/404/' },
-  { id: 13, title: 'Farm management system', image: farm, githubLink: 'https://github.com/otis-ke/mwea_farm-system-', liveDemoLink: 'https://otis-ke.github.io/404/' },
+  { id: 1, title: 'Crpto Coin Search', image: crypto, githubLink: 'https://github.com/otis-ke/notiscrypto', liveDemoLink: 'https://otis-ke.github.io/notiscrypto/'},
+  { id: 2, title: 'Weather Search', image: weather, githubLink: 'https://github.com/otis-ke/Weathersearch.github.io', liveDemoLink: 'https://otis-ke.github.io/Weathersearch.github.io/' },
+  { id: 3, title: 'Compare location', image: compare, githubLink: 'https://github.com/otis-ke/user_location_compare.github.io', liveDemoLink: ' https://otis-ke.github.io/user_location_compare.github.io/' },
+  { id: 4, title: 'Closet app', image: shop, githubLink: 'https://github.com/otis-ke/veemcloset.github.io', liveDemoLink: 'https://otis-ke.github.io/veemcloset.github.io/' },
+  { id: 5, title: 'Get location', image: location, githubLink: 'https://github.com/otis-ke/location_user.github.io', liveDemoLink: 'https://otis-ke.github.io/location_user.github.io/' },
+  { id: 6, title: 'Calculator', image: calculator, githubLink: 'https://github.com/otis-ke/calculator.github.io', liveDemoLink: ' https://otis-ke.github.io/calculator.github.io/' },
+  { id: 7, title: 'Portfolio', image: port, githubLink: 'https://github.com/otis-ke/otiswebsite.github.io', liveDemoLink: 'https://otis-ke.github.io/otiswebsite.github.io/' },
+  { id: 8, title: 'tic tac toe', image: tictac, githubLink: 'https://github.com/otis-ke/tictactoe.github.io', liveDemoLink: 'https://otis-ke.github.io/tictactoe.github.io/' },
+  { id: 9, title: 'group project', image: grp, githubLink: 'https://github.com/otis-ke/alxportfolioproject.github.io', liveDemoLink: 'https://otis-ke.github.io/alxportfolioproject.github.io/' },
+  { id: 10, title: 'Airbnb clone', image: bnb, githubLink: 'https://github.com/otis-ke/AirBnB_clone_v4', liveDemoLink: 'https://otis-ke.github.io/404/' },
+  { id: 11, title: 'Hospital managment system', image: hospital, githubLink: 'https://github.com/otis-ke/hospital_management-system', liveDemoLink: 'https://otis-ke.github.io/404/' },
+  { id: 12, title: 'inventory Management system', image: inventory, githubLink: 'https://github.com/otis-ke/notisinventory', liveDemoLink: 'https://otis-ke.github.io/404/' },
+  { id: 13, title: 'Pharmarcy management POS-system', image: pharmarcy, githubLink: 'https://github.com/otis-ke/pharmacy', liveDemoLink: 'https://otis-ke.github.io/404/' },
+  { id: 14, title: 'Farm management system', image: farm, githubLink: 'https://github.com/otis-ke/mwea_farm-system-', liveDemoLink: 'https://otis-ke.github.io/404/' },
   
 ];
 
