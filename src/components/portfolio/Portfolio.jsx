@@ -13,10 +13,10 @@ import inventory from '../../assets/inventory.jpg';
 import hospital from '../../assets/hospitaliii.jpg';
 import pharmarcy from '../../assets/pharmarcy.jpg';
 import farm from '../../assets/imagesfarm.jpg';
-import crypto from '../../assets/crypto.jpg'
+import cypto from '../../assets/crypto.jpg'
 
 const projects = [
-  { id: 1, title: 'Crpto Coin Search', image: crypto, githubLink: 'https://github.com/otis-ke/notiscrypto', liveDemoLink: 'https://otis-ke.github.io/notiscrypto/'},
+  { id: 1, title: 'Crypto Coin Search', image: cypto, githubLink: 'https://github.com/otis-ke/notiscrypto', liveDemoLink: 'https://otis-ke.github.io/notiscrypto/'},
   { id: 2, title: 'Weather Search', image: weather, githubLink: 'https://github.com/otis-ke/Weathersearch.github.io', liveDemoLink: 'https://otis-ke.github.io/Weathersearch.github.io/' },
   { id: 3, title: 'Compare location', image: compare, githubLink: 'https://github.com/otis-ke/user_location_compare.github.io', liveDemoLink: ' https://otis-ke.github.io/user_location_compare.github.io/' },
   { id: 4, title: 'Closet app', image: shop, githubLink: 'https://github.com/otis-ke/veemcloset.github.io', liveDemoLink: 'https://otis-ke.github.io/veemcloset.github.io/' },
