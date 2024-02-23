@@ -41,7 +41,7 @@ const About = () => {
             <br />
             
             <br />
-            I'm open to Full-stack(remote/onsite) opportunities with a passion of Front-end development.
+            I'm open to Full-stack (remote/onsite) opportunities with a passion of Front-end development.
             If you like what you see and have a project you need coded, 
             don’t hestiate to contact me.
           </p>
