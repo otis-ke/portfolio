@@ -15,10 +15,6 @@ This project is a portfolio showcasing my skills and projects. It is built using
 
 ## Usage
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/portfolio-showcase.git
-
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
