@@ -1,9 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.62f3d797.css",
-    "main.js": "/portfolio/static/js/main.e517f330.js",
+    "main.js": "/portfolio/static/js/main.90c72d0e.js",
     "static/js/787.38f16daf.chunk.js": "/portfolio/static/js/787.38f16daf.chunk.js",
-    "static/media/aboutotis.jpg": "/portfolio/static/media/aboutotis.198984672128a28440af.jpg",
     "static/media/cut.png": "/portfolio/static/media/cut.06d62e37349d50d9d671.png",
     "static/media/grp.jpg": "/portfolio/static/media/grp.c6f62580292ec03e4af4.jpg",
     "static/media/bnb.jpg": "/portfolio/static/media/bnb.32aacde6d44b5b2a3acc.jpg",
@@ -11,6 +10,7 @@
     "static/media/shop2.jpg": "/portfolio/static/media/shop2.f3d0a43d451c16b8f9f7.jpg",
     "static/media/weathersearch.jpg": "/portfolio/static/media/weathersearch.a03eb82d63fd92a350f9.jpg",
     "static/media/newpia.jpg": "/portfolio/static/media/newpia.0c0545215fef8e9644cc.jpg",
+    "static/media/geto.jpg": "/portfolio/static/media/geto.007829029e8249101112.jpg",
     "static/media/lokesheni.jpg": "/portfolio/static/media/lokesheni.b4e50168fc9f79fc927a.jpg",
     "static/media/hospitaliii.jpg": "/portfolio/static/media/hospitaliii.6536f9c26510a95b28f8.jpg",
     "static/media/inventory.jpg": "/portfolio/static/media/inventory.8b89e37c11e7b2c3a3a1.jpg",
@@ -19,11 +19,11 @@
     "static/media/pharmarcy.jpg": "/portfolio/static/media/pharmarcy.b8bce8163bc7483657fe.jpg",
     "index.html": "/portfolio/index.html",
     "main.62f3d797.css.map": "/portfolio/static/css/main.62f3d797.css.map",
-    "main.e517f330.js.map": "/portfolio/static/js/main.e517f330.js.map",
+    "main.90c72d0e.js.map": "/portfolio/static/js/main.90c72d0e.js.map",
     "787.38f16daf.chunk.js.map": "/portfolio/static/js/787.38f16daf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.62f3d797.css",
-    "static/js/main.e517f330.js"
+    "static/js/main.90c72d0e.js"
   ]
 }
