@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import Me from '../../assets/aboutotis.jpg'
+import Me from '../../assets/geto.jpg'
 import { TbDeviceImac } from "react-icons/tb";
 import { GiTrophy } from "react-icons/gi";
 import { FaCode } from "react-icons/fa";
