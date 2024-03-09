@@ -1,6 +1,6 @@
 # Portfolio Showcase Project
 
-This project is a portfolio showcasing my skills and projects. It is built using React.js and CSS to create a visually appealing and interactive experience for visitors.
+**This project is a portfolio showcasing my skills and projects. It is built using React.js and CSS to create a visually appealing and interactive experience for visitors.**
 
 ## Features
 
