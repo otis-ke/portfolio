@@ -15,8 +15,10 @@ import pharmarcy from '../../assets/pharmarcy.jpg';
 import farm from '../../assets/imagesfarm.jpg';
 import cypto from '../../assets/crypto.jpg';
 import red from '../../assets/red.png'
+import dlef from '../../assets/dlef.jpg'
 
 const projects = [
+  { id: 1, title: 'Linkosi Clothing', image: dlef, githubLink: 'https://otis-ke.github.io/404/', liveDemoLink: 'https://linkosiclothing.com/'},
   { id: 1, title: 'L&C modeling school', image: red, githubLink: 'https://otis-ke.github.io/404/', liveDemoLink: 'https://lcmodelingschool.com/'},
   { id: 2, title: 'Crypto Coin Search', image: cypto, githubLink: 'https://github.com/otis-ke/notiscrypto', liveDemoLink: 'https://otis-ke.github.io/notiscrypto/'},
   { id: 3, title: 'Weather Search', image: weather, githubLink: 'https://github.com/otis-ke/Weathersearch.github.io', liveDemoLink: 'https://otis-ke.github.io/Weathersearch.github.io/' },
