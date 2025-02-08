@@ -19,7 +19,7 @@ import dlef from '../../assets/dlef.jpg'
 import tai from '../../assets/taistat.png'
 import wakaba from '../../assets/wakaba.png'
 const projects = [
-  { id: 1, title: 'Taistat Consultancy Firm ', image: tai, githubLink: 'https://otis-ke.github.io/404/', liveDemoLink: 'https://taistat-firm.com/'},
+  { id: 1, title: 'Taistat Consultancy  Firm ', image: tai, githubLink: 'https://otis-ke.github.io/404/', liveDemoLink: 'https://taistat-firm.com/'},
   { id: 1, title: 'Linkosi Clothing', image: dlef, githubLink: 'https://otis-ke.github.io/404/', liveDemoLink: 'https://linkosiclothing.com/'},
   { id: 1, title: 'L&C modeling school', image: red, githubLink: 'https://otis-ke.github.io/404/', liveDemoLink: 'https://lcmodelingschool.com/'},
   { id: 1, title: 'Wakaba Junior Landing page', image: wakaba, githubLink: 'https://otis-ke.github.io/404/', liveDemoLink: 'https://wakabajunior.com/'},
