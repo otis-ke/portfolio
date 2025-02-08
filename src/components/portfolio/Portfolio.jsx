@@ -16,11 +16,14 @@ import farm from '../../assets/imagesfarm.jpg';
 import cypto from '../../assets/crypto.jpg';
 import red from '../../assets/red.png'
 import dlef from '../../assets/dlef.jpg'
-
+import tai from '../../assets/taistat.png'
+import wakaba from '../../assets/wakaba.png'
 const projects = [
+  { id: 1, title: 'Taistat Consultancy Firm ', image: tai, githubLink: 'https://otis-ke.github.io/404/', liveDemoLink: 'https://taistat-firm.com/'},
   { id: 1, title: 'Linkosi Clothing', image: dlef, githubLink: 'https://otis-ke.github.io/404/', liveDemoLink: 'https://linkosiclothing.com/'},
   { id: 1, title: 'L&C modeling school', image: red, githubLink: 'https://otis-ke.github.io/404/', liveDemoLink: 'https://lcmodelingschool.com/'},
-  { id: 2, title: 'Crypto Coin Search', image: cypto, githubLink: 'https://github.com/otis-ke/notiscrypto', liveDemoLink: 'https://otis-ke.github.io/notiscrypto/'},
+  { id: 1, title: 'Wakaba Junior Landing page', image: wakaba, githubLink: 'https://otis-ke.github.io/404/', liveDemoLink: 'https://wakabajunior.com/'},
+  { id: 2, title: 'Notis Crypto ', image: cypto, githubLink: 'https://github.com/otis-ke/notiscrypto', liveDemoLink: 'https://otis-ke.github.io/notiscrypto/'},
   { id: 3, title: 'Weather Search', image: weather, githubLink: 'https://github.com/otis-ke/Weathersearch.github.io', liveDemoLink: 'https://otis-ke.github.io/Weathersearch.github.io/' },
   { id: 4, title: 'Compare location', image: compare, githubLink: 'https://github.com/otis-ke/user_location_compare.github.io', liveDemoLink: ' https://otis-ke.github.io/user_location_compare.github.io/' },
   { id: 5, title: 'Closet app', image: shop, githubLink: 'https://github.com/otis-ke/veemcloset.github.io', liveDemoLink: 'https://otis-ke.github.io/veemcloset.github.io/' },
