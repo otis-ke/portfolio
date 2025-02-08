@@ -1,14 +1,16 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.62f3d797.css",
-    "main.js": "/portfolio/static/js/main.02d473ce.js",
+    "main.js": "/portfolio/static/js/main.8cdb5127.js",
     "static/js/787.38f16daf.chunk.js": "/portfolio/static/js/787.38f16daf.chunk.js",
+    "static/media/wakaba.png": "/portfolio/static/media/wakaba.17b7fca06cbaf87b1f3a.png",
     "static/media/red.png": "/portfolio/static/media/red.9e101369db03c67bb6dc.png",
     "static/media/dlef.jpg": "/portfolio/static/media/dlef.4ac4530262d98881f1f6.jpg",
     "static/media/cut.png": "/portfolio/static/media/cut.06d62e37349d50d9d671.png",
     "static/media/grp.jpg": "/portfolio/static/media/grp.c6f62580292ec03e4af4.jpg",
     "static/media/bnb.jpg": "/portfolio/static/media/bnb.32aacde6d44b5b2a3acc.jpg",
     "static/media/port.png": "/portfolio/static/media/port.dac6c63bbc1dc5899772.png",
+    "static/media/taistat.png": "/portfolio/static/media/taistat.02f756275e7dfedb0690.png",
     "static/media/shop2.jpg": "/portfolio/static/media/shop2.f3d0a43d451c16b8f9f7.jpg",
     "static/media/weathersearch.jpg": "/portfolio/static/media/weathersearch.a03eb82d63fd92a350f9.jpg",
     "static/media/newpia.jpg": "/portfolio/static/media/newpia.0c0545215fef8e9644cc.jpg",
@@ -21,11 +23,11 @@
     "static/media/pharmarcy.jpg": "/portfolio/static/media/pharmarcy.b8bce8163bc7483657fe.jpg",
     "index.html": "/portfolio/index.html",
     "main.62f3d797.css.map": "/portfolio/static/css/main.62f3d797.css.map",
-    "main.02d473ce.js.map": "/portfolio/static/js/main.02d473ce.js.map",
+    "main.8cdb5127.js.map": "/portfolio/static/js/main.8cdb5127.js.map",
     "787.38f16daf.chunk.js.map": "/portfolio/static/js/787.38f16daf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.62f3d797.css",
-    "static/js/main.02d473ce.js"
+    "static/js/main.8cdb5127.js"
   ]
 }
